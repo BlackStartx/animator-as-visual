@@ -14,9 +14,10 @@ using VRC.SDK3.Avatars.Components;
 using VRC.SDK3.Avatars.ScriptableObjects;
 
 using BlackStartX.GestureManager.Editor.Modules.Vrc3;
-using BlackStartX.GestureManager.Editor.Lib;
+using BlackStartX.GestureManager.Editor.Library;
 using BlackStartX.GestureManager.Editor.Modules.Vrc3.RadialSlices;
-using BlackStartX.GestureManager.Runtime.VisualElements;
+using BlackStartX.GestureManager.Library;
+using BlackStartX.GestureManager.Library.VisualElements;
 
 namespace pi.AnimatorAsVisual
 {
